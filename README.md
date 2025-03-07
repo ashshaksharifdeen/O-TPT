@@ -66,6 +66,18 @@ Follow this repository for datasets preparation: [TPT](https://github.com/azshue
 | O-TPT (Ours)                    | Acc.    | 67.33 | 45.68 | 70.07 | 84.13 | 64.23 | 23.64 | 87.95 | 93.95 | 64.16 | 42.84 | 64.53 | **64.41** |
 |                                 | ECE     | 1.96  | 7.88  | 3.87  | 1.46  | 4.93  | 3.68  | 1.9   | 3.8  | 2.34 | 12.98  | 1.78 |**4.21** |
 
+#### Comparison of calibration performance with CLIP-ViTB/16 backbone on Natural distribution shift datasets:
+
+| Method              | Metric | I-A  | I-V2  | I-R  | I-S  | Avg  |
+|---------------------|--------|------|------|------|------|------|
+| CLIP-ViT-B/16      | Acc.   | 47.8 | 60.8 | 74.0 | 46.1 | 57.2 |
+|                     | ECE    | 8.61 | 3.01 | 3.58 | 4.95 | 5.04 |
+| TPT                | Acc.   | 52.6 | 63.0 | 76.7 | 47.5 | 59.9 |
+|                     | ECE    | 16.4 | 11.1 | 4.36 | 16.1 | 12.0 |
+| C-TPT              | Acc.   | 51.6 | 62.7 | 76.0 | 47.9 | 59.6 |
+|                     | ECE    | 8.16 | 6.23 | 1.54 | 7.35 | 5.82 |
+| O-TPT (Ours)       | Acc.   | 49.87 | 61.65 | 72.55 | 47.12 | 57.80 |
+|                     | ECE    | 7.22 | 3.97 | 1.46 | 6.87 | **4.88** |
 
 ## Acknowledgement
 We are thankful to the authors of [TPT](https://github.com/azshue/TPT), [C-TPT](https://github.com/hee-suk-yoon/C-TPT?tab=readme-ov-file), and [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp) for their open-source contributions.
