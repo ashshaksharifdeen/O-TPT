@@ -47,6 +47,8 @@ Follow this repository for datasets preparation: [TPT](https://github.com/azshue
 ## Run Experiments
 
 ## Main Results
+#### Comparison of calibration performance with CLIP-ViTB/16 backbone.
+
 | Method                          | Metric  | INet  | DfID  | FLW   | Food  | SUN   | Air   | Pets  | Calt  | UCF   | SAT   | Car   | Avg   |
 |---------------------------------|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Zero Shot                       | Acc.    | 66.7  | 44.3  | 67.3  | 83.6  | 62.5  | 23.9  | 88.0  | 92.9  | 65.0  | 41.3  | 65.3  | 63.7  |
