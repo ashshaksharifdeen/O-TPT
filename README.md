@@ -21,6 +21,28 @@ Our contributions are summarized as follows:
 ## Installation
 
 ## Datasets
+We have conducted main experiments on fine-grained and natural distribution shift datasets:
+
+- **Fine-grained datasets**:  
+  1. ImageNet  
+  2. Flower102  
+  3. OxfordPets  
+  4. SUN397  
+  5. DTD  
+  6. Food101  
+  7. StanfordCars  
+  8. Aircraft  
+  9. UCF101  
+  10. EuroSAT  
+  11. Caltech101  
+
+- **Natural distribution shift datasets**:  
+  1. ImageNet-V2  
+  2. ImageNet-A  
+  3. ImageNet-R  
+  4. ImageNet-Sketch
+
+Follow this repository for datasets preparation: [TPT](https://github.com/azshue/TPT) 
 
 ## Run Experiments
 
