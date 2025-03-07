@@ -49,7 +49,11 @@ Follow this repository for datasets preparation: [TPT](https://github.com/azshue
 ## Main Results
 
 ## Acknowledgement
+We are thankful to the authors of [TPT](https://github.com/azshue/TPT), [C-TPT](https://github.com/hee-suk-yoon/C-TPT?tab=readme-ov-file), and [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp) for their open-source contributions.
 
 ## Citation
+If you find our work useful for your research, please consider citing it:
 
 ## Contact
+If you need any further clarification, please feel free to contact me at [ashshaks@gmail.com](mailto:ashshaks@gmail.com).
+
