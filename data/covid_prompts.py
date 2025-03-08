@@ -1,0 +1,1 @@
+covid_classes = ['COVID 19', 'Non COVID', 'Normal']
