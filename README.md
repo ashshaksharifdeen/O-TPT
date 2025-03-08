@@ -19,6 +19,13 @@ Our contributions are summarized as follows:
 7. [Contact](#contact)
 
 ## Installation
+```bash
+#Steps to set up the environment
+ 1. git clone https://github.com/ashshaksharifdeen/O-TPT.git
+ 2. cd O-TPT
+ 3. conda env create -f environment.yml
+ 4. conda activate otpt
+```
 
 ## Datasets
 We have conducted main experiments on fine-grained and natural distribution shift datasets:
