@@ -1,4 +1,4 @@
-# 🚀: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in Vision-Language Models (CVPR 2025) 
+# 🚀O-TPT: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in Vision-Language Models (CVPR 2025) 
 
 Our contributions are summarized as follows:
   - We provide new insights underlying the suboptimal performance of an existing top-performing calibration method for test-time prompt tuning
