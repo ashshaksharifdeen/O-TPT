@@ -54,6 +54,37 @@ We have conducted main experiments on fine-grained and natural distribution shif
 Follow this repository for datasets preparation: [TPT](https://github.com/azshue/TPT) 
 
 ## Run Experiments
+In each .sh file, you can edit the root dataset directory location as well as configure the baseline, whether it's ‘RN50’ or ‘ViT-B/16’. Also, you can switch between different experiment modes by changing run_type, whether it is opt, tpt baselines, or calibration with temperature scaling.  
+
+Baseline Experiment
+
+```bash
+#bash scripts/test_baseline.sh /I/DTD/Flower102/Food101/Cars/SUN397/Aircraft/Pets/Caltech101/UCF101/eurosat for fine-grained classification
+  bash scripts/test_baseline.sh {dataset}
+  
+```
+
+TPT Experiment
+```bash
+
+#Fine-grained classification
+bash scripts/test_tpt_fg.sh {dataset}
+
+#Natural distribution shift
+bash scripts/test_tpt_ds.sh {dataset}
+
+```
+
+O-TPT Experiment
+
+```bash
+#Fine-grained classification
+bash scripts/test_tpt_otpt_fg.sh {dataset}
+
+#natural distribution shift
+bash scripts/test_tpt_otpt_ds.sh {dataset}
+
+```
 
 ## Main Results
 #### Comparison of calibration performance with CLIP-ViTB/16 backbone.
