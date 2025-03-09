@@ -1,4 +1,4 @@
-# O-TPT: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in Vision-Language Models (CVPR 2025) 
+# 🚀: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in Vision-Language Models (CVPR 2025) 
 
 Our contributions are summarized as follows:
   - We provide new insights underlying the suboptimal performance of an existing top-performing calibration method for test-time prompt tuning
@@ -10,17 +10,17 @@ Our contributions are summarized as follows:
 [![arXiv](https://img.shields.io/badge/arXiv-2305.12345-red.svg)]()
 
 
-## Contents
+## 📌 Contents
 
-1. [Installation](#installation) 
-2. [Datasets](#datasets)
-3. [Run Experiments](#run-experiments)
-4. [Main Results](#main-results)
-5. [Acknowledgement](#acknowledgement)
-6. [Citation](#citation)
-7. [Contact](#contact)
+1. [📥 Installation](#installation)  
+2. [🗂️ Datasets](#datasets)  
+3. [⚙️ Run Experiments](#run-experiments)  
+4. [📊 Main Results](#main-results)  
+5. [🙏 Acknowledgement](#acknowledgement)  
+6. [📖 Citation](#citation)  
+7. [📧 Contact](#contact)
 
-## Installation
+## 📥 Installation
 ```bash
 #Steps to set up the environment
  1. git clone https://github.com/ashshaksharifdeen/O-TPT.git
@@ -29,7 +29,7 @@ Our contributions are summarized as follows:
  4. conda activate otpt
 ```
 
-## Datasets
+## 🗂️ Datasets
 We have conducted main experiments on fine-grained and natural distribution shift datasets:
 
 - **Fine-grained datasets**:  
@@ -53,10 +53,10 @@ We have conducted main experiments on fine-grained and natural distribution shif
 
 Follow this repository for datasets preparation: [TPT](https://github.com/azshue/TPT) 
 
-## Run Experiments
+## ⚙️ Run Experiments
 In each .sh file, you can edit the root dataset directory location as well as configure the baseline, whether it's ‘RN50’ or ‘ViT-B/16’. Also, you can switch between different experiment modes by changing run_type, whether it is opt, tpt baselines, or calibration with temperature scaling.  
 
-Baseline Experiment
+🏁 Baseline Experiment
 
 ```bash
 #bash scripts/test_baseline.sh /I/DTD/Flower102/Food101/Cars/SUN397/Aircraft/Pets/Caltech101/UCF101/eurosat for fine-grained classification
@@ -64,7 +64,7 @@ Baseline Experiment
   
 ```
 
-TPT Experiment
+🎯 TPT Experiment
 ```bash
 
 #Fine-grained classification
@@ -75,7 +75,7 @@ bash scripts/test_tpt_ds.sh {dataset}
 
 ```
 
-O-TPT Experiment
+🔥 O-TPT Experiment
 
 ```bash
 #Fine-grained classification
@@ -86,7 +86,7 @@ bash scripts/test_tpt_otpt_ds.sh {dataset}
 
 ```
 
-## Main Results
+## 📊 Main Results
 #### Comparison of calibration performance with CLIP-ViTB/16 backbone.
 
 | Method                          | Metric  | INet  | DfID  | FLW   | Food  | SUN   | Air   | Pets  | Calt  | UCF   | SAT   | Car   | Avg   |
@@ -106,7 +106,7 @@ bash scripts/test_tpt_otpt_ds.sh {dataset}
 | O-TPT (Ours)                    | Acc.    | 67.33 | 45.68 | 70.07 | 84.13 | 64.23 | 23.64 | 87.95 | 93.95 | 64.16 | 42.84 | 64.53 | **64.41** |
 |                                 | ECE     | 1.96  | 7.88  | 3.87  | 1.46  | 4.93  | 3.68  | 1.9   | 3.8  | 2.34 | 12.98  | 1.78 |**4.21** |
 
-#### Comparison of calibration performance with CLIP-ViTB/16 backbone on Natural distribution shift datasets:
+#### 🌍 Comparison of calibration performance with CLIP-ViTB/16 backbone on Natural distribution shift datasets:
 
 | Method              | Metric | I-A  | I-V2  | I-R  | I-S  | Avg  |
 |---------------------|--------|------|------|------|------|------|
@@ -119,12 +119,12 @@ bash scripts/test_tpt_otpt_ds.sh {dataset}
 | O-TPT (Ours)       | Acc.   | 49.87 | 61.65 | 72.55 | 47.12 | 57.80 |
 |                     | ECE    | 7.22 | 3.97 | 1.46 | 6.87 | **4.88** |
 
-## Acknowledgement
+## 🙏 Acknowledgement
 We are thankful to the authors of [TPT](https://github.com/azshue/TPT), [C-TPT](https://github.com/hee-suk-yoon/C-TPT?tab=readme-ov-file), and [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp) for their open-source contributions.
 
-## Citation
+##  📖 Citation
 If you find our work useful for your research, please consider citing it:
 
-## Contact
+## 📧 Contact
 If you need any further clarification, please feel free to contact me at [ashshaks@gmail.com](mailto:ashshaks@gmail.com).
 
