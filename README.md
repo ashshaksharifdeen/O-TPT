@@ -15,8 +15,8 @@ Our contributions are summarized as follows:
 ## 📌 Contents
 
 1. [📥 Installation](#-installation)  
-2. [🗂️ Datasets](#-datasets) 
-3. [⚙️ Run Experiments](#-run-experiments)  
+2. [🗂️ Datasets](#datasets)  
+3. [⚙️ Run Experiments](#run-experiments)  
 4. [📊 Main Results](#-main-results)  
 5. [🙏 Acknowledgement](#-acknowledgement)  
 6. [📖 Citation](#-citation)  
