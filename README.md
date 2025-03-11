@@ -11,6 +11,15 @@ Our contributions are summarized as follows:
 [![Paper](https://img.shields.io/badge/Paper-Published-blue.svg)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2305.12345-red.svg)]()
 
+## ✍️ Authors  
+- **[Ashshak Sharifdeen](https://scholar.google.com/citations?user=XXXXXXX&hl=en)**  
+- **[Muhammad Akhtar Munir](https://scholar.google.com.pk/citations?user=sT-epZAAAAAJ&hl=en)**  
+- **[Sanoojan Baliah](https://scholar.google.com/citations?user=2WJHOBEAAAAJ&hl=en)**  
+- **[Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en)**  
+- **[Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en)**  
+
+---
+
 
 ## 📌 Contents
 
