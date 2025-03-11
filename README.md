@@ -15,7 +15,7 @@ Our contributions are summarized as follows:
 ## 📌 Contents
 
 1. [📥 Installation](#-installation)  
-2. [🗂️ Datasets](#-datasets)  
+2. [🗂️ Datasets](#-datasets) 
 3. [⚙️ Run Experiments](#-run-experiments)  
 4. [📊 Main Results](#-main-results)  
 5. [🙏 Acknowledgement](#-acknowledgement)  
@@ -31,7 +31,7 @@ Our contributions are summarized as follows:
  4. conda activate otpt
 ```
 
-## 🗂️ Datasets
+## Datasets
 We have conducted main experiments on fine-grained and natural distribution shift datasets:
 
 - **Fine-grained datasets**:  
