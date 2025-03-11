@@ -16,7 +16,7 @@ Our contributions are summarized as follows:
 
 1. [📥 Installation](#-installation)  
 2. [🗂️ Datasets](#datasets)  
-3. [⚙️ Run Experiments](#runexperiments)  
+3. [⚙️ Run Experiments](#run-experiments)  
 4. [📊 Main Results](#-main-results)  
 5. [🙏 Acknowledgement](#-acknowledgement)  
 6. [📖 Citation](#-citation)  
@@ -31,7 +31,7 @@ Our contributions are summarized as follows:
  4. conda activate otpt
 ```
 
-## 🗂️ Datasets
+## 🗂 Datasets
 We have conducted main experiments on fine-grained and natural distribution shift datasets:
 
 - **Fine-grained datasets**:  
@@ -55,7 +55,7 @@ We have conducted main experiments on fine-grained and natural distribution shif
 
 Follow this repository for datasets preparation: [TPT](https://github.com/azshue/TPT) 
 
-## ⚙️ Run Experiments
+## ⚙ Run Experiments
 In each .sh file, you can edit the root dataset directory location as well as configure the baseline, whether it's ‘RN50’ or ‘ViT-B/16’. Also, you can switch between different experiment modes by changing run_type, whether it is opt, tpt baselines, or calibration with temperature scaling.  
 
 🏁 Baseline Experiment
