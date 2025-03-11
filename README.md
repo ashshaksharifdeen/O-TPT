@@ -12,7 +12,7 @@ Our contributions are summarized as follows:
 [![arXiv](https://img.shields.io/badge/arXiv-2305.12345-red.svg)]()
 
 ## ✍️ Authors  
-- **[Ashshak Sharifdeen](https://scholar.google.com/citations?user=XXXXXXX&hl=en)**  
+- **[Ashshak Sharifdeen](https://scholar.google.com/citations?user=XXXXXXX&hl=en&user=rd9zSX8AAAAJ)**  
 - **[Muhammad Akhtar Munir](https://scholar.google.com.pk/citations?user=sT-epZAAAAAJ&hl=en)**  
 - **[Sanoojan Baliah](https://scholar.google.com/citations?user=2WJHOBEAAAAJ&hl=en)**  
 - **[Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en)**  
