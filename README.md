@@ -9,7 +9,7 @@ Our contributions are summarized as follows:
 ![O-TPT Results](otpt-results.png)
 
 [![Paper](https://img.shields.io/badge/Paper-Published-blue.svg)]()
-[![arXiv](https://img.shields.io/badge/arXiv-2305.12345-red.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2503.12096-red.svg)]("https://arxiv.org/abs/2503.12096")
 
 ## ✍️ Authors  
 - **[Ashshak Sharifdeen](https://scholar.google.com/citations?user=XXXXXXX&hl=en&user=rd9zSX8AAAAJ)**  
