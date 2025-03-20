@@ -20,6 +20,8 @@ Our contributions are summarized as follows:
 
 ---
 
+##  Relationship between cosine similarity and ECE
+ ![O-TPT Results](otpt-results.png)
 
 ## 📌 Contents
 
