@@ -6,7 +6,7 @@ Our contributions are summarized as follows:
 
   - We perform an extensive evaluation to validate our approach on various datasets and across different baselines. Results reveal that `O-TPT` provides consistent gains over the state-of-the-art methods in overall average calibration performance with several different baselines. Moreover, our `O-TPT` provides better calibration performance than the zero-shot CLIP which reveals improved calibration compared to existing SOTA 
 
-![O-TPT Results](radar_plot_3_.png)
+![O-TPT Results](radar_plot_3_.jpg)
 
 [![Paper](https://img.shields.io/badge/Paper-Published-blue.svg)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2503.12096-red.svg)](https://arxiv.org/abs/2503.12096)
