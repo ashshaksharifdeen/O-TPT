@@ -137,6 +137,16 @@ We are thankful to the authors of [TPT](https://github.com/azshue/TPT), [C-TPT](
 
 ##  📖 Citation
 If you find our work useful for your research, please consider citing it:
+```bibtex
+@misc{sharifdeen2025otptorthogonalityconstraintscalibrating,
+      title={O-TPT: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in Vision-Language Models}, 
+      author={Ashshak Sharifdeen and Muhammad Akhtar Munir and Sanoojan Baliah and Salman Khan and Muhammad Haris Khan},
+      year={2025},
+      eprint={2503.12096},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.12096}, 
+}
 
 ## 📧 Contact
 If you need any further clarification, please feel free to contact me at [ashshaks@gmail.com](mailto:ashshaks@gmail.com).
